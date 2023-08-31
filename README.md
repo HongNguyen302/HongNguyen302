@@ -1,7 +1,7 @@
 ![MasterHead](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 
 ### Hi there I'm Hong Nguyen <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> 
-<h3 align="left">A passionate frontend developer from The U.S</h3>
+<h3 align="left">A passionate frontend developer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif" >
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React
